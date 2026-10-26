@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Runtime data and generated files
+service_tracker.db
+service_tracker.db-*
+exports/*
+!exports/.gitkeep
+*.tmp
+*.bak
